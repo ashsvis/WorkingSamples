@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ChartWorking
 {
-    public partial class Form1 : Form
+    public partial class MainChartForm : Form
     {
-        public Form1()
+        public MainChartForm()
         {
             InitializeComponent();
         }
